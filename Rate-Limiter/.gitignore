@@ -1,0 +1,8 @@
+# Ignore compiled Java files
+*.class
+
+# Optional (recommended)
+target/
+build/
+out/
+*.log
